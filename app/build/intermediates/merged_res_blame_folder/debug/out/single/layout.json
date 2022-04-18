@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Projek Android\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_start_order.xml",
+        "source": "E:\\Projek Android\\android-basics-kotlin-lunch-tray-app-main\\app\\src\\main\\res\\layout\\fragment_start_order.xml"
+    },
+    {
+        "merged": "E:\\Projek Android\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_checkout.xml",
+        "source": "E:\\Projek Android\\android-basics-kotlin-lunch-tray-app-main\\app\\src\\main\\res\\layout\\fragment_checkout.xml"
+    },
+    {
+        "merged": "E:\\Projek Android\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_side_menu.xml",
+        "source": "E:\\Projek Android\\android-basics-kotlin-lunch-tray-app-main\\app\\src\\main\\res\\layout\\fragment_side_menu.xml"
+    },
+    {
+        "merged": "E:\\Projek Android\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_accompaniment_menu.xml",
+        "source": "E:\\Projek Android\\android-basics-kotlin-lunch-tray-app-main\\app\\src\\main\\res\\layout\\fragment_accompaniment_menu.xml"
+    },
+    {
+        "merged": "E:\\Projek Android\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_entree_menu.xml",
+        "source": "E:\\Projek Android\\android-basics-kotlin-lunch-tray-app-main\\app\\src\\main\\res\\layout\\fragment_entree_menu.xml"
+    },
+    {
+        "merged": "E:\\Projek Android\\android-basics-kotlin-lunch-tray-app-main\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "E:\\Projek Android\\android-basics-kotlin-lunch-tray-app-main\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
